@@ -1,0 +1,30 @@
+Kotlin Developed by - JetBrains
+
+Official Language of Android Studio
+
+Why Kotlin ?
+1.Mutability
+2.Null Safety
+3.Official Language
+
+
+Basic DataTypes: 
+Double
+Float
+Long
+Int
+Short
+Byte
+Boolean
+Char
+String
+Array
+ 
+Everything is an Object (No primitive data type)
+
+Null Safety: 
+
+
+
+
+
