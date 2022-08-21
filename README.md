@@ -16,7 +16,7 @@
 |||||
 |:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |
 |Simple Calculator|Count|||
-| ![Imgur](003%20Layout%20%26%20Activity/Demo/calculator.png) | ![Imgur](003%20Layout%20%26%20Activity/Demo/count.gif) | ![Imgur]() | ![Imgur]() |
+| ![Imgur](003%20Layout%20%26%20Activity/Demo/calculator.png) | ![Imgur](003%20Layout%20%26%20Activity/Demo/count.png) | ![Imgur]() | ![Imgur]() |
   
 
   
